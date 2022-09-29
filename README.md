@@ -12,7 +12,7 @@ Quel est votre mois de naissance (incrémenter le chiffre de la case corresponda
 |Juin|1|
 |Juillet|1|
 |Août|1|
-|Septembre|1|
+|Septembre|2|
 |Octobre|1|
 |Novembre|1|
 |Décembre|1|
