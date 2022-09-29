@@ -4,17 +4,17 @@ Quel est votre mois de naissance (incrémenter le chiffre de la case corresponda
 
 |Mois||
 |:-:|:-:|
-|Janvier|0|
-|Février|0|
-|Mars|0|
-|Avril|0|
-|Mai|0|
-|Juin|0|
-|Juillet|0|
-|Août|0|
-|Septembre|0|
-|Octobre|0|
-|Novembre|0|
-|Décembre|0|
+|Janvier|1|
+|Février|1|
+|Mars|1|
+|Avril|1|
+|Mai|1|
+|Juin|1|
+|Juillet|1|
+|Août|1|
+|Septembre|1|
+|Octobre|1|
+|Novembre|1|
+|Décembre|1|
 
 Et votre prénom (_mais est-ce bien utile_) ?
