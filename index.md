@@ -72,7 +72,7 @@ section {
 
 * `git clone <url>`
 * `git status`
-* `git restore <file-or-directory>`
+* `git restore <file-or-directory>` (⚠️ destructif !)
 * `git diff`
 * `git add <file-or-directory>`, `git add --all`
 * `git restore --staged <file-or-directory>`
@@ -535,7 +535,7 @@ section {
     - https://github.com/thoughtbot/guides/tree/main/code-review
 - Exemples de `.gitignore` :
     - https://github.com/github/gitignore
-    - https://www.toptal.com/developers/gitignore 
+    - https://www.toptal.com/developers/gitignore
 
 ---
 
