@@ -398,7 +398,7 @@ D'autres workflows :
 
 * `git config --global user.name "John Doe"`
 * `git config --global user.email johndoe@example.com`
-* `git config --global pull.rebase preserve`
+* `git config --global pull.rebase true`
 * `git config --global core.autocrlf input` (Unix/Mac) et `git config --global core.autocrlf true` (Windows)
 
 <!--
